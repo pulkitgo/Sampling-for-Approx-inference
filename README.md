@@ -1,6 +1,6 @@
 # PMI_Demo
 
-Demo for Approximate Inference (CS698X, IIT Kanpur). This notebook has simulations for Rejection sampling, Monte Carlo Sampling (/Approximation), Metropolis-Hastings Sampling and Gibbs Sampling. 
+Demo for Approximate Inference (CS698X, IIT Kanpur). This notebook has simulations for Rejection sampling, Monte Carlo Sampling (Approximation), Metropolis-Hastings Sampling and Gibbs Sampling. 
 
 ## Acknowledgements 
 
